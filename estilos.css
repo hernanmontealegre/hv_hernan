@@ -1,0 +1,83 @@
+body{
+  background-color: #DCDCDC
+}
+
+H1{
+  font-weight: 500;
+  text-align: center;
+  font-size: 52px;
+  color: #191970;
+}
+H1.lema1{
+  font-weight: 500;
+  text-align: center;
+  font-size: 52px;
+  color: #FFFF00;
+}
+H1.lema2{
+  font-weight: 500;
+  text-align: center;
+  font-size: 52px;
+  color: #1E90FF;
+}
+H1.lema3{
+  font-weight: 500;
+  text-align: center;
+  font-size: 52px;
+  color: #FF0000;
+}
+H2{
+  font-weight: 300;
+  text-align: left;
+  font-size: 48px;
+  color: #191970;
+  text-decoration: underline;
+}
+H3{
+  font-weight: 100;
+  text-align: left;
+  font-size: 38px;
+  color: #191970;
+}
+H4{
+  font-weight: 100;
+  text-align: left;
+  font-size: 36px;
+  color: #696969;
+}
+H6{
+  font-weight: 100;
+  text-align: left;
+  font-size: 18px;
+  color: #000080;
+}
+p {
+  font-weight: 100;
+  text-align: left;
+  font-size: 22px;
+  color: #4169E1;
+  font-family: monospace;
+}
+
+hr.tabla {
+   margin-left: 0%;
+  height: 10px;
+  width: 10%;
+  background-color: black;
+  font-size: 26px;
+}
+hr{
+ /*height:100vh;*/
+ height: 10px;
+ width:70%auto;
+ border-width:10;
+ color:#ADD8E6;
+ background-color:#F5FFFA;
+}
+p.pie {
+  /*font-weight: 500;*/
+  text-align: center;
+  font-size: 16px;
+  color: #A0522D;
+  font-style: italic;
+}
