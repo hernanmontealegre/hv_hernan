@@ -1,5 +1,12 @@
 body{
-  background-color: #DCDCDC
+
+    margin: 0;
+    padding: 0;
+    /*background-image:url(img/fondo.png);*/
+    background-size: cover;
+    background-position: center;
+    background-color: #DCDCDC
+
 }
 
 H1{
